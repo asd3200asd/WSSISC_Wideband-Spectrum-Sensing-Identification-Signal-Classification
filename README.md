@@ -2,7 +2,7 @@
 
 軟體定義無線電中距離傳輸之通道辨識
 
-資料集網址: [[https://drive.google.com/drive/u/2/folders/1UzxmXDfIg-e76OPq0IeBF2OyhqBdPtUm](https://dataportal.asia/dataset/4f92d998-46f5-4e8e-9aff-d3db64ec2a64/resource/3bb87322-950b-4408-8603-83f1982017d6)](https://scidm.nchc.org.tw/dataset/ofdm_medium)
+資料集網址: https://scidm.nchc.org.tw/dataset/ofdm_medium
 
 
 ![image](https://github.com/asd3200asd/-/assets/49805563/645d5ed7-4d5a-4841-bfc6-37a7d6aa4135)
